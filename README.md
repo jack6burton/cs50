@@ -4,4 +4,3 @@ window:
  - editor
  - readme
  - terminal
- 
